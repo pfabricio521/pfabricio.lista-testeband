@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0 group-title="pfabricio"
+
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-z5aB5Lw2koR1DJtgjEllsGe0GOqEmhAc8ikytRs3auuCKIXg" group-title="CANAL ABERTO",BAND
+https://video01.kshost.com.br/rba2779/rba2779/chunklist_w1297226915.m3u8
